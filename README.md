@@ -26,3 +26,6 @@ Actively learning and updating daily 💪
 
 ## 🔄 Daily Progress
 Consistently solving Java problems and improving coding skills.
+
+## 🚀 Mini Projects
+- Number Guessing Game (Java)
