@@ -29,3 +29,5 @@ Consistently solving Java problems and improving coding skills.
 
 ## 🚀 Mini Projects
 - Number Guessing Game (Java)
+
+- Menu-Based Calculator (Java)
