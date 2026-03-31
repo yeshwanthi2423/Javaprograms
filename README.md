@@ -1,4 +1,4 @@
-# Core Java Practice & Projects 🚀
+# Core Java Practice & Projects 
 
 Hi! I'm currently learning Java and building my programming skills step by step.
 
