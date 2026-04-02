@@ -33,3 +33,4 @@ To become job-ready as a software developer by consistently building and improvi
 🚀 Actively learning and updating this repository regularly
 
 - Palindrome Number Checker
+- Fibonacci Series Program
