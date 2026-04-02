@@ -31,3 +31,5 @@ To become job-ready as a software developer by consistently building and improvi
 
 ## 📈 Status
 🚀 Actively learning and updating this repository regularly
+
+- Palindrome Number Checker
